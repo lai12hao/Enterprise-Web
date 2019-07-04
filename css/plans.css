@@ -1,0 +1,63 @@
+.wrap .plans{
+    width:100%;
+    margin:0 auto;
+    height:450px;
+}
+.wrap .plans .plan-con{
+    width:90%;
+    margin:0 auto;
+
+}
+.wrap .plans .plan-con h1{
+    text-align:center;  
+    height:100px;
+    line-height:100px;
+}
+.wrap .plans .plan-con .person{
+    width:30%;
+    height:300px;
+    position:relative;
+    float:left;
+    margin-left:30px;
+}
+.wrap .plans .plan-con .person h3{
+    width:100%;
+    text-align:center;
+    height:60px;
+    line-height:60px;
+    background-color:#34ABE2;
+    color:white;
+}
+.wrap .plans .plan-con .person .per1{
+    height:130px;
+    border:1px solid #ddd;
+}
+.wrap .plans .plan-con .person .per1 .money{
+    width:100%;
+    margin:0 auto;
+    text-align:center;
+    margin-top:40px;
+    font-size:30px;
+    font-weight:700;
+}
+.wrap .plans .plan-con .person .per1 span{
+    position:absolute;
+    font-size:12px;
+    color:#777;
+    top:30%;
+    left:56%;
+}.wrap .plans .plan-con .person .per1 p{
+    text-align:center;
+    font-size:12px;
+    color:#777;
+}
+.wrap .plans .plan-con .person .per2{
+    height:50px;
+    line-height:30px;
+    padding-top:30px;
+    text-align:center;
+    font-size:14px;
+    color:#777;
+    border:1px solid #ddd;
+    padding-bottom:20px;
+}

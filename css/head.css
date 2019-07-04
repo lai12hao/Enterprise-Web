@@ -1,0 +1,80 @@
+
+.wrap{
+    overflow: hidden;
+}
+.wrap .nav{
+    width:100%;
+    margin:auto;
+    background-color:#333d47;
+    height:230px;
+}
+.wrap .nav .nav-top{
+    width:90%;
+    margin:0 auto;
+    height:50px;
+    border-bottom:1px #565A5A solid;
+    
+}
+.wrap .nav .nav-top .cop{
+    position:absolute;
+    width:80%;
+    /* border:1px red solid; */
+    padding:5px 5px;
+}
+.wrap .nav .nav-top .cop a{
+    padding:0px 3px;
+    width:30px;
+    height:30px;
+}
+.wrap .nav .nav-top .email{
+    float:right;
+    height:50px;
+    line-height:50px;
+}
+.wrap .nav .nav-top .email a{
+    padding:0px 5px;
+    color:white;
+
+}
+.wrap .nav .nav-bot{
+    width:90%;
+    margin:auto;
+    height:150px;
+
+}
+.wrap .nav .nav-bot .nav-bot-text{
+    margin-top:90px;
+    /* border:1px red solid; */
+    height:60px;
+    line-height:70px;
+}
+
+.wrap .nav .nav-bot .nav-bot-text ul li{
+    float:left;
+    padding:0px 15px;
+}
+.wrap .nav .nav-bot .nav-bot-text ul li a{
+    color:white;
+    padding:15px 5px;
+}
+
+.wrap .nav .nav-bot .nav-bot-text ul li a:hover,.wrap .nav .nav-bot .nav-bot-text ul li .home{
+    background-color:#faa43d;
+}
+.wrap .nav .nav-bot .nav-bot-text ul li .re{
+    font-size:40px;
+    margin-right:40px;
+    line-height:35px;
+}
+.wrap .nav .nav-bot .nav-bot-text .phone{
+    height:60px;
+    width:230px;
+    /* border:1px red solid; */
+    margin-left:930px;
+    background-color:#2da9e1;
+    text-align:center;
+}
+.wrap .nav .nav-bot .nav-bot-text .phone a{
+    font-size:25px;
+    color:white;
+}

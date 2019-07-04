@@ -1,0 +1,10 @@
+.sideshow{
+    margin: 0 auto;
+    height:40rem;
+    overflow: hidden;
+}  
+.sideshow img{
+    width: 100%;
+    height: 100%;
+}
+

@@ -1,0 +1,12 @@
+*{
+    margin:0px;
+    padding:0px;
+    list-style:none;
+    text-decoration:none;
+}
+.wrap{
+    margin:auto;
+    border:1px red black;
+    
+}
+

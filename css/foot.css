@@ -1,0 +1,21 @@
+.wrap .foot{
+    width:100%;
+    height:260px;
+    margin:0 auto;
+    border:1px red solid;
+    background-color:#222;
+}
+.wrap .foot .foot-con{
+    width:90%;
+    margin:0 auto;
+    color:white;
+    padding:40px 10px 30px 10px;
+    margin-right:20px;
+}
+.wrap .foot .foot-con .text{
+    width:23%;
+    float:left;
+}
+.wrap .foot .foot-con .text  h2{
+    padding:10px 0px;
+}
